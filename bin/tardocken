@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import tardocken
+tardocken.main()
